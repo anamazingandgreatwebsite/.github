@@ -67,6 +67,9 @@ We’re not just building a platform; we’re creating a <strong>community</stro
 
 ### Members
 [![Contributors](https://contrib.rocks/image?repo=blockclassboard/blockclassboard.github.io)](https://github.com/blockclassboard/blockclassboard.github.io/graphs/contributors)
+others
+#AnOkayGameDev
+thats it lol
 
 ---
 
