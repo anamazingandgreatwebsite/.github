@@ -66,7 +66,7 @@ We’re not just building a platform; we’re creating a <strong>community</stro
 - 💬 <strong> any cool things you wanna us to add create a pull request !</strong>
 
 ### Members
-https://api.github.com/blockclassboard/Classboard/members
+[![Contributors](https://contrib.rocks/image?repo=blockclassboard/blockclassboard.github.io)](https://github.com/blockclassboard/blockclassboard.github.io/graphs/contributors)
 
 ---
 
