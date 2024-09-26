@@ -1,7 +1,7 @@
 # 🚀 Welcome to Classboard Industries! 🌟
 ⬇ Scroll down to see Respritorys :) 😁
 
-*by <a href="https://github.com/bahabryra"><strong>@bahabryra aka RiyadTheCoder</strong></a>
+*by <a href="https://github.com/bahabryra"><strong>@bahabryra aka RiyadTheCoder</strong></a>*
 ![Classboard](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)  
 *Note: Placeholder image*
 
