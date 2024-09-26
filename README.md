@@ -63,7 +63,10 @@ We’re not just building a platform; we’re creating a <strong>community</stro
 
 ### 📣 Want to Contribute?
 - 🤔 <strong>Have ideas?</strong> Open an issue or contact live support
-- 💬 <strong> any cool things you wanna us to add create a pull request !</strong> 
+- 💬 <strong> any cool things you wanna us to add create a pull request !</strong>
+
+### Members
+https://api.github.com/orgs/blockclassboard/members
 
 ---
 
