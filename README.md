@@ -1,7 +1,9 @@
 # 🚀 Welcome to Classboard Industries! 🌟
+⬇ Scroll down to see Respritorys :) 😁
 
+*by <a href="https://github.com/bahabryra"><strong>@bahabryra aka RiyadTheCoder</strong></a>*
 ![Classboard](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)  
-*Note: Placeholder image* 
+*Note: Placeholder image*
 
 ---
 
@@ -63,12 +65,15 @@ We’re not just building a platform; we’re creating a <strong>community</stro
 
 ### 📣 Want to Contribute?
 - 🤔 <strong>Have ideas?</strong> Open an issue or contact live support
-- 💬 <strong> any cool things you wanna us to add create a pull request !</strong>
+- 💬 <strong> any cool things you wanna us to add create a pull request !</strong> 
 
 ### Members
 [![Contributors](https://contrib.rocks/image?repo=blockclassboard/blockclassboard.github.io)](https://github.com/blockclassboard/blockclassboard.github.io/graphs/contributors)
 others
-#AnOkayGameDev
+
+
+<a href="https://github.com/AnOkayGameDev"><strong>@bahabryra aka RiyadTheCoder</strong></a>
+
 thats it lol
 
 ---
