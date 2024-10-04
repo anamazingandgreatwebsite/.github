@@ -19,8 +19,48 @@ Here at Classboard, we try to provide the best user experience with great UI and
 
 
 ### Members Contributions to github and Classboard
+# Welcome to My Amazing Coding Game Website!
 
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+Visitor Count: **<span id="visitorCount">0</span>**
+
+```html
+<script>
+    // Function to get the value of a cookie by name
+    function getCookie(name) {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; ${name}=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+    }
+
+    // Function to set a cookie
+    function setCookie(name, value, days) {
+        const date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        const expires = `expires=${date.toUTCString()}`;
+        document.cookie = `${name}=${value}; ${expires}; path=/`;
+    }
+
+    // Function to update the visitor count
+    function updateVisitorCount() {
+        let count = getCookie('visitorCount');
+
+        if (!count) {
+            // If there's no cookie, set the visitor count to 1 and create the cookie
+            count = 1;
+            setCookie('visitorCount', count, 1); // Expires in 1 day
+        } else {
+            // If the cookie exists, increment the count
+            count = parseInt(count) + 1;
+            setCookie('visitorCount', count, 1);
+        }
+
+        // Update the displayed visitor count
+        document.getElementById('visitorCount').textContent = count;
+    }
+
+    // Call the update function when the page loads
+    window.onload = updateVisitorCount;
+</script>
 
 
 
