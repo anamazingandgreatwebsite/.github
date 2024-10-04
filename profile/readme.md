@@ -15,4 +15,4 @@ Here at Classboard, we try to provide the best user experience with great UI and
 💁 <b>Amazing Support</b> - We have options for live chat or to fill out a form! We'll get back to you in 3-5 business days <br>
 
 ### Members
-[![Contributors](https://contrib.rocks/image?repo=superhardalgebraproblems/superhardalgebraproblems.github.io)](https://github.com/superhardalgebraproblems/superhardalgebraproblems.github.io/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=superhardalgebraproblems/)](https://github.com/superhardalgebraproblems/graphs/contributors)
