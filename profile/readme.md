@@ -17,4 +17,4 @@ Here at Classboard, we try to provide the best user experience with great UI and
 
 
 ### Members
-[![Contributors](https://contrib.rocks/image?repo=hardmathproblems/hardmathproblems.github.io)](https://github.com/hardmathproblems/hardmathproblems.github.io/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=spookyseasonlol/spookyseasonlol.github.io)](https://github.com/spookyseasonlol/spookyseasonlol.github.io/graphs/contributors)
