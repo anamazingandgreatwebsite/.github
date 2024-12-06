@@ -11,7 +11,7 @@ Here at Classboard, we try to provide the best user experience with great UI and
 🔐 <b>Secure</b> - Your security matters to us, which is why we try to be as secure as we can <br>
 💾 <b>On-Device Data</b> - We don't store your data in servers, it is stored on your device and your device only, meaning no one can see it <br>
 🆕 <b>Always Updated</b> - We are constantly updating Classboard, meaning you can expect updates within 2-8 days <br>
-💬 <b>Chatrooms</b> - With our chatrooms powered by Microsoft Teams, you can talk to friends and family in real time <br>
+💬 <b>Chatrooms</b> - With our very own chatroom, you can connect to friends in real time <br>
 💁 <b>Amazing Support</b> - We have options for live chat or to fill out a form! We'll get back to you in 3-5 business days <br>
 📊 <b>Stats</b> - Check out our github website stats here: [Stats](https://github-stats.com/hardmathproblems/hardmathproblems.github.io) <br>
 
